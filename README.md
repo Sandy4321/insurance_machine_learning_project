@@ -1,1 +1,1 @@
-# Insurance Machine Llearning Project
+# Insurance Machine Learning Project
